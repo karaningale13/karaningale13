@@ -1,4 +1,6 @@
-[![MasterHead]([https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)]
+[![MasterHead](https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)]()
+
+
 <h1 align="center">Hi 👋, I'm Karan Ingale</h1>
 <h3 align="center">Enthusiastic B.E. Computer Engineering graduate with a solid foundation in software development and machine learning. Proficient in Java, and C++, Web Development, problem-solving, and teamwork skills. Eager to contribute to innovative tech projects and grow in a that environment. Seeking an entry-level position to apply and expand my knowledge in Industry</h3>
 
